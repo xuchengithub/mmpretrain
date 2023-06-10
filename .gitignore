@@ -148,5 +148,11 @@ checkpoint
 model_params.txt
 *.ckpt*
 results.txt
-
+data_split 
 *.jpg
+
+*.csv
+*.pth
+mmpretrain/xuchenworkspace/*
+xuchenworkspace/ImageClassifier/*
+
